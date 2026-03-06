@@ -1,4 +1,6 @@
-# Handwritten Digit Classification using MNIST (Deep Learning)
+# Handwritten Digit Classification using Deep Learning
+
+## MNIST Dataset Neural Network Implementation
 
 ## Project Description
 
@@ -79,6 +81,14 @@ The final predicted digit is selected using **`argmax`**, which returns the clas
 ---
 
 ## Project Structure
+
+```
+mnist-digit-classifier
+│
+├── mnist_digit_classifier.ipynb
+├── mnist_model.keras
+└── README.md
+```
 
 mnist-digit-classifier
 │
